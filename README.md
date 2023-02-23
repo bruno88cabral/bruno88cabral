@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Bruno Cabral</h1>
 <h3>A cool frontend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bruno88cabral&label=Profile%20views&color=0e75b6&style=flat" alt="bruno88cabral" /> </p>
-
 - 🌱 I’m currently learning <a href="https://remix.run/" target="_blank">**Remix**</a>
 
 - 💬 Ask me about **front-end**
