@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I am a roller hockey player**
 
+<br>
+
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -96,13 +98,22 @@
   </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bruno88cabral&theme=tokyonight" alt="bruno88cabral" /></a> </p>
+<br>
+
+<h3 align="left">Metrics</h3>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bruno88cabral&theme=tokyonight" alt="bruno88cabral" />
+  </a>
+</p>
 
 <img align="left" height="180em" width="" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno88cabral&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="bruno88cabral" />
 
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno88cabral&theme=tokyonight&show_icons=true&locale=en" alt="bruno88cabral" />
 
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bruno88cabral&theme=tokyonight" alt="bruno88cabral" />
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
