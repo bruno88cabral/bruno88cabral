@@ -1,7 +1,7 @@
 <h1>Hello 👋 I'm Bruno Cabral</h1>
 <h3>A cool frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning <a href="https://remix.run/" target="_blank">**Remix**</a>
+- 🌱 I’m currently learning React Native
 
 - 💬 Ask me about **front-end**
 
