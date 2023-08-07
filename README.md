@@ -1,5 +1,5 @@
 <h1>Hello 👋 I'm Bruno Cabral</h1>
-<h3>A cool frontend developer from Brazil</h3>
+<h3>Front end engineer</h3>
 
 - 🌱 I’m currently learning React Native
 
