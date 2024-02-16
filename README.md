@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bruno88cabral@gmail.com**
 
-- ⚡ Fun fact **I am a roller hockey player**
+- ⚡ Fun fact **I am a roller hockey player** and teacher
 
 <br>
 
