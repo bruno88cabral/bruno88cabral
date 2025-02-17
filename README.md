@@ -22,3 +22,5 @@
 <img align="left" height="180em" width="" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno88cabral&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="bruno88cabral" />
 
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno88cabral&theme=tokyonight&show_icons=true&locale=en" alt="bruno88cabral" />
+
+<img align="center" src="./berserk-banner.png" alt="bruno88cabral" />
