@@ -1,13 +1,13 @@
 <h1>Hello 👋 I'm Bruno Cabral</h1>
 <h3>Front end engineer</h3>
 
-- 🌱 I’m currently learning Remix.run
+- 🌱 I’m currently learning back-end skills
 
-- 💬 Ask me about **front-end**
+- 💬 Ask me about **front-end** and **agile**
 
 - 📫 How to reach me **bruno88cabral@gmail.com**
 
-- ⚡ Fun fact **I am a roller hockey player** and teacher
+- ⚡ Fun fact **I am a roller hockey player and teacher**
 
 <br>
 
