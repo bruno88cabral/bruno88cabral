@@ -13,11 +13,6 @@
 
 
 <h3 align="left">Metrics</h3>
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bruno88cabral&theme=tokyonight" alt="bruno88cabral" />
-  </a>
-</p>
 
 <img align="left" height="180em" width="" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno88cabral&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="bruno88cabral" />
 
