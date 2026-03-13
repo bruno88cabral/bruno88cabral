@@ -1,7 +1,7 @@
 <h1>Hello 👋 I'm Bruno Cabral</h1>
 <h3>Software Engineer</h3>
 
-- 🌱 I’m currently learning back-end skills
+- 🌱 I’m currently learning back-end and IA skills
 
 - 💬 Ask me about **front-end** and **agile**
 
