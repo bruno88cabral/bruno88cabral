@@ -1,12 +1,4 @@
-<h3>Software Engineer</h3>
-
-- 🌱 I’m currently learning back-end and IA skills
-
-- 💬 Ask me about **front-end** and **agile**
-
-- 📫 How to reach me **bruno88cabral@gmail.com**
-
-- ⚡ Fun fact **I am a roller hockey player and teacher**
+<img src="./terminal.svg" alt="Terminal window with Bruno's ASCII portrait and tech stack" width="100%" />
 
 <br>
 
